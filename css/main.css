@@ -1,0 +1,23 @@
+.main-heading {
+  text-align: center;
+  font-family: "Dela Gothic One";
+  font-weight: 400;
+  font-size: 110px;
+  color: #ffc233;
+  line-height: 1.1;
+}
+
+.main-button {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.main-button button {
+  background-color: #ff505f;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  height: 70px;
+  width: 300px;
+  font-size: 25px;
+}

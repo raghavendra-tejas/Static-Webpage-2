@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+
+body {
+  height: 100vh;
+  background-image: url("../images/food.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(1, 24, 50, 0.75);
+  background-blend-mode: darken;
+}

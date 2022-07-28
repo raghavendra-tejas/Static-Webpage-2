@@ -1,0 +1,42 @@
+.nav-container {
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+/* Navigation left */
+.nav-left img {
+  height: 45px;
+  margin-left: 100px;
+}
+
+
+
+/* Navigation middle */
+.nav-middle {
+  flex: 1;
+  margin: 0 200px 0 370px;
+}
+
+.nav-middle-list-item {
+  display: inline;
+  margin-right: 50px;
+  cursor: pointer;
+  color: #f4bb34;
+  font-weight: 400;
+  font-size: x-small;
+}
+
+
+
+/* Navigation right */
+.nav-right button {
+  margin-right: 100px;
+  height: 50px;
+  width: 120px;
+  background-color: #ff505f;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
